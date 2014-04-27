@@ -1,4 +1,4 @@
-##cache matrix function will store a solved matrix. When user calls the function and input certain matrix,
+##"cachematrix.R" function will store a solved matrix. When user calls the function and input certain matrix,
 ##it will first check the result function was solved before and bound with certain variable name
 ##if it was solved before, return the value stored with cache. If not, solve it and store it in cache
 
